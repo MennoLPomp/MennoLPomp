@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MennoLPomp
 - 👀 I’m interested in econ, math, stats
-- 🌱 I’m currently learning Python, R, Stata
+- 🌱 I’m currently learning Python, R, Stata, Matlab
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
